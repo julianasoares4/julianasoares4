@@ -3,11 +3,11 @@
 
 Meu nome é  Juliana Soares
 
-_estou estudando na [Alura](https://www.alura.com.br)
+- estou estudando na [Alura](https://www.alura.com.br)
 
-_estou me desenvolvendo na linguagem html.
+- estou me desenvolvendo na linguagem html.
 
-_ultilizo  esse espaço para minha organização e compartilhamento de projetos desenvolvidos.
+- ultilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos.
 
 
 ###Vocêpode entrar em contato comigo 📧
